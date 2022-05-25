@@ -6,7 +6,7 @@
 <img align="center" width="450"  src="https://imgs.search.brave.com/HFIdCLRhcKgrDzchsw2DzedMenYnxNElHN-dWrC8ltY/rs:fit:680:428:1/g:ce/aHR0cHM6Ly93d3cu/Y29kZWNvcm5lcnMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA1L3Nlbmlv/ci1mcm9udC1lbmQt/ZGV2ZWxvcGVyLW9w/ZW5pbmdzLTEuZ2lm.gif">
 
 
-- 🔭 I’m currently learning **Basics to Advance concepts of DSA**
+- 🔭 I’m currently working  **On self development**
 
 - 🌱 I’m currently learning **DSA in JAVA**
 
