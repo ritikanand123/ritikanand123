@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://i.kinja-img.com/gawker-media/image/upload/s--TeOsGa2z--/c_fill,f_auto,fl_progressive,g_center,h_675,q_80,w_1200/pwl9mwg0qu5vdagwstde.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif)
 
 <h1 align="center">Hi 👋, I'm Ritik Anand</h1>
 <h3 align="center">A passionate upcoming developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif")
+(img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/HFIdCLRhcKgrDzchsw2DzedMenYnxNElHN-dWrC8ltY/rs:fit:680:428:1/g:ce/aHR0cHM6Ly93d3cu/Y29kZWNvcm5lcnMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA1L3Nlbmlv/ci1mcm9udC1lbmQt/ZGV2ZWxvcGVyLW9w/ZW5pbmdzLTEuZ2lm.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikanand123&label=Profile%20views&color=0e75b6&style=flat" alt="ritikanand123" /> </p>
 
