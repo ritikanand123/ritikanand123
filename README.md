@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Anand</h1>
 <h3 align="center">A passionate upcoming developer from India</h3>
 
-<img align="right" alt="Coding" width="500"  src="https://imgs.search.brave.com/HFIdCLRhcKgrDzchsw2DzedMenYnxNElHN-dWrC8ltY/rs:fit:680:428:1/g:ce/aHR0cHM6Ly93d3cu/Y29kZWNvcm5lcnMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA1L3Nlbmlv/ci1mcm9udC1lbmQt/ZGV2ZWxvcGVyLW9w/ZW5pbmdzLTEuZ2lm.gif">
+<img align="right"  width="500"  src="https://imgs.search.brave.com/HFIdCLRhcKgrDzchsw2DzedMenYnxNElHN-dWrC8ltY/rs:fit:680:428:1/g:ce/aHR0cHM6Ly93d3cu/Y29kZWNvcm5lcnMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA1L3Nlbmlv/ci1mcm9udC1lbmQt/ZGV2ZWxvcGVyLW9w/ZW5pbmdzLTEuZ2lm.gif">
 
 
 - 🔭 I’m currently learning **Basics to Advance concepts of DSA**
