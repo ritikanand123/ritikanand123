@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif)
+[![MasterHead](https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif)
 
 <h1 align="center">Hi 👋, I'm Ritik Anand</h1>
 <h3 align="center">A passionate upcoming developer from India</h3>
