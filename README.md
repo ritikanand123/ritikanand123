@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Ritik Anand</h1>
 <h3 align="center">A passionate upcoming developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/HFIdCLRhcKgrDzchsw2DzedMenYnxNElHN-dWrC8ltY/rs:fit:680:428:1/g:ce/aHR0cHM6Ly93d3cu/Y29kZWNvcm5lcnMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA1L3Nlbmlv/ci1mcm9udC1lbmQt/ZGV2ZWxvcGVyLW9w/ZW5pbmdzLTEuZ2lm.gif")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikanand123&label=Profile%20views&color=0e75b6&style=flat" alt="ritikanand123" /> </p>
+<img align="right" alt="Coding" width="500"  src="https://imgs.search.brave.com/HFIdCLRhcKgrDzchsw2DzedMenYnxNElHN-dWrC8ltY/rs:fit:680:428:1/g:ce/aHR0cHM6Ly93d3cu/Y29kZWNvcm5lcnMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA1L3Nlbmlv/ci1mcm9udC1lbmQt/ZGV2ZWxvcGVyLW9w/ZW5pbmdzLTEuZ2lm.gif">
+
 
 - 🔭 I’m currently learning **Basics to Advance concepts of DSA**
 
@@ -15,6 +15,7 @@
 - 📫 How to reach me **rahul.03329.anand@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
